@@ -6,7 +6,7 @@ local Player = game.Players.LocalPlayer
 local Window = OrionLib:MakeWindow({Name = "Luman hub Key system", HidePremium = false, SaveConfig = true, })
 
 
-_G.Key = "Sigma"
+_G.Key = "Sigma", "D4C"
 _G.KeyInput = "string"
 
 
